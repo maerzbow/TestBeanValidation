@@ -8,7 +8,7 @@ import org.hibernate.validator.constraints.Length;
 
 import at.solvistas.commons.validation.Violations;
 
-/** nochn GIT Tests **/
+/** nochn GIT Tests im repo **/
 public class TestBean {
 
 	@NotNull
