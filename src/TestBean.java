@@ -8,7 +8,7 @@ import org.hibernate.validator.constraints.Length;
 
 import at.solvistas.commons.validation.Violations;
 
-/** nochn GIT Tests lokal die 2 te ohne konflikt **/
+/** nochn GIT Tests lokal die 2 te remote **/
 public class TestBean {
 
 	@NotNull
